@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AstalDLyon
 - 👀 I’m interested in python and cybersecurity
 - 🌱 I’m currently learning python and cybersecurity
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on new information in the subjects above.
 - 📫 Reach me via email
 
 <!---
