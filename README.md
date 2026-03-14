@@ -5,6 +5,13 @@
 Me chamo Breno Alves Deodato, conhecido como Astal, sou natural do Rio de Janeiro. Possuo bacharelado em Ciencia da Computação, tenho interesse em desenvolvimento Java e Cibersegurança. Atualmente estou tentando melhorar meu conhecimento com Spring e estudando para tirar certificações internacionais. Estou sempre buscando o conhecimento.
 
 <p align="left">
+    <a href="mailto:bralves@hotmail.com.br">
+        <img 
+            alt="Repositórios" 
+            title="Meus Repositórios" 
+            src="https://custom-icon-badges.demolab.com/badge/-email-darkred?style=for-the-badge&logo=gmail&logoColor=whitee"
+        />
+    </a>
     <a href="https://github.com/AstalDLyon?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
