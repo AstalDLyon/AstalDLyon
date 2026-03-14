@@ -26,7 +26,6 @@ Me chamo Breno Alves Deodato, conhecido como Astal, sou natural do Rio de Janeir
             src="https://custom-icon-badges.demolab.com/badge/-Meus%20Repositórios-black?style=for-the-badge&logoColor=white&logo=repo"
         />
     </a>
-    
 </p>
 
 ---
