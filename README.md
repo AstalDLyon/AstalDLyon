@@ -1,43 +1,44 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1C86C0EB&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile.)](https://git.io/typing-svg)
 # 👨‍💻 Breno Alves
 
-**`Desenvolvedor Java`**
+**`Java and Cyber enthusiast.`**
 
-Me chamo Breno Alves Deodato, conhecido como Astal, sou natural do Rio de Janeiro. Possuo bacharelado em Ciencia da Computação, tenho interesse em desenvolvimento Java e Cibersegurança. Atualmente estou tentando melhorar meu conhecimento com Spring e estudando para tirar certificações internacionais. Estou sempre buscando o conhecimento.
+My name is Breno Alves, but you can call me Astal, and I'm from Rio de Janeiro. I have a bachelor's degree in Computer Science and I'm interested in Java development and Cybersecurity. Currently, i'm trying to improve my knowledge of Spring and studying to obtain international certifications. I'm always seeking knowledge.
 
 <p align="left">
     <a href="mailto:bralves@hotmail.com.br">
         <img 
             alt="Email" 
-            title="Email para contato" 
+            title="Email for contact" 
             src="https://custom-icon-badges.demolab.com/badge/-email-darkred?style=for-the-badge&logo=gmail&logoColor=whitee"
         />
     </a>
     <a href="https://github.com/AstalDLyon?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/AstalDLyon?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Star Total" 
+            title="Star Total" 
+            src="https://custom-icon-badges.demolab.com/github/stars/AstalDLyon?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
     </a><!--
     --><a href="https://github.com/AstalDLyon?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/AstalDLyon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Followers" 
+            title="Follow me" 
+            src="https://custom-icon-badges.demolab.com/github/followers/AstalDLyon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a><!--
     --><a href="https://github.com/AstalDLyon?tab=repositories">
         <img 
             alt="Repositórios" 
-            title="Meus Repositórios" 
-            src="https://custom-icon-badges.demolab.com/badge/-Meus%20Repositórios-black?style=for-the-badge&logoColor=white&logo=repo"
+            title="My repos" 
+            src="https://custom-icon-badges.demolab.com/badge/-My%20Repositories-black?style=for-the-badge&logoColor=white&logo=repo"
         />
     </a>
 </p>
 
 ---
 
-### Linguagens e Tecnologias
+### Technologies
 
 <img 
     align="left" 
@@ -115,7 +116,7 @@ Me chamo Breno Alves Deodato, conhecido como Astal, sou natural do Rio de Janeir
 <br/>
 <br/>
 
-###  Estatísticas
+###  Statistics
 
 <p>
   <img 
@@ -123,14 +124,14 @@ Me chamo Breno Alves Deodato, conhecido como Astal, sou natural do Rio de Janeir
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=AstalDLyon&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=AstalDLyon&show_icons=true&theme=tokyonight&include_all_commits=true&show=reviews" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstalDLyon&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstalDLyon&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 
 </p>
