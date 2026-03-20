@@ -126,13 +126,11 @@ My name is Breno Alves, but you can call me Astal, and I'm from Rio de Janeiro. 
     style="padding-right: 10px;" 
     src="https://readme-stats-breno-one.vercel.app/api?username=AstalDLyon&show_icons=true&theme=tokyonight&include_all_commits=true&show=reviews" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstalDLyon&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://readme-stats-breno-one.vercel.app/api/top-langs/?username=AstalDLyon&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
-
 </p>
 
