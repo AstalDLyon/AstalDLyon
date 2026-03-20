@@ -124,7 +124,7 @@ My name is Breno Alves, but you can call me Astal, and I'm from Rio de Janeiro. 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=AstalDLyon&show_icons=true&theme=tokyonight&show=reviews" 
+    src="https://github-readme-stats.vercel.app/api?username=AstalDLyon&show_icons=true&theme=tokyonight&show=reviews&include_all_commits=true:" 
   />
 
 <img 
